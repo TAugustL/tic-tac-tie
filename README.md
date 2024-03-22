@@ -13,7 +13,7 @@
   X:
 ```
 
-<p>After entering your number you will see your symbol on the assigned square appear on the field (e.g. for 5).</p>
+<p>After entering your number you will see your symbol appear on the assigned square (e.g. for 5).</p>
 
 ```
    1 │ 2 │ 3
@@ -23,8 +23,8 @@
    7 │ 8 │ 9
   O:
 ```
-<p>After your turn, player O makes their turn.</p>
-<p>At end either you or your opponent win, or the game ends (most likely) in a tie.</p>
+<p>After your turn player O makes their turn.</p>
+<p>At the end either you or your opponent win, or the game ends (most likely) in a tie.</p>
 
 ```
    O │ X │ O
